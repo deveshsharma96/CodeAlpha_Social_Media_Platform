@@ -1,7 +1,10 @@
 
 # Social Media Platform
 
-A full-stack social media platform that allows users to connect, share posts, like, comment, follow others in real-time. 
+My Name is Devesh Sharma, This is my Social Media website.
+
+A full-stack social media platform (Name-SocialConnect). 
+That website allows users to connect, share posts, like, comment, follow others in real-time. 
 This project demonstrates core functionalities of a modern social networking site with an interactive Frontend and secure Backend.
 
 ## Project Structure
